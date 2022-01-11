@@ -10,9 +10,9 @@
 
 # Install Instruction
 1. Open your terminal and `cd` to a proper location.
-2. Clone the Repo on you computer using `git@github.com:direakanbi/Math-Magicians.git`
+2. Clone the Repo on you computer using `git@github.com:direakanbi/math-magicians.git`
 3. Make sure you have JavaScript installed; use `js -v` .
-4. Cd to the project directory`cd Math Magician` .
+4. Cd to the project directory`cd math-magician` .
 5. Use `node -v` to check if you have node instaled
 6. Install the dependencies in the local node_modules folder with `npm install`
 7. Then `npm start`
