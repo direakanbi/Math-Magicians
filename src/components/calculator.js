@@ -40,6 +40,7 @@ const Calculator = () => {
         <button onClick={() => buttonClick(data, '0')} className="zero" type="button">0</button>
         <button onClick={() => buttonClick(data, '.')} type="button">.</button>
         <button onClick={() => buttonClick(data, '=')} className="action-btns" type="button">=</button>
+
       </div>
     </div>
   );
