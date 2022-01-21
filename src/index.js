@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Home from './components/Home';
-import Calculator from './components/Calculator';
+import Calculator from './components/Calculator-func';
 import Quote from './components/Quote';
 
 const rootElement = document.getElementById('root');
