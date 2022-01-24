@@ -16,6 +16,10 @@
 6. Install the dependencies in the local node_modules folder with `npm install`
 7. Then `npm start`
 
+## Live Versions
+- Heroku Version [Math-Magicians](https://aqueous-sierra-77944.herokuapp.com/)
+- Netlify Version [Math-Magicians](https://keen-edison-83ebe9.netlify.app)
+
 ## Author
 
 👤 **Dire Akanbi**
